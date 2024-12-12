@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Naveen-9-9
-- 👀 I’m interested in ... codeing and games
+- 👀 I’m interested in ... coding and games
 - 🌱 I’m currently learning ... python 
 - 💞️ I’m looking to collaborate on ... a group where ppl like me exist
 - 📫 How to reach me ... 0o_0o__naveen__ (insta)
