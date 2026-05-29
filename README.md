@@ -174,23 +174,23 @@
 <h2 align="left">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <a href="https://github.com/Naveen-9-9">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Naveen-9-9&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=36BCF7&icon_color=F78240&text_color=c9d1d9&border_color=30363d&hide_border=false&count_private=true&cache_seconds=86400&rank_icon=github" alt="GitHub Stats" />
+  <a href="https://github.com/BistNaveenSingh">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BistNaveenSingh&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=36BCF7&icon_color=F78240&text_color=c9d1d9&border_color=30363d&hide_border=false&count_private=true&cache_seconds=86400&rank_icon=github" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/Naveen-9-9">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-9-9&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9&border_color=30363d&hide_border=false&langs_count=8&cache_seconds=86400" alt="Top Languages" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Naveen-9-9">
-    <img width="60%" src="https://streak-stats.demolab.com/?user=Naveen-9-9&theme=tokyonight&background=0D1117&fire=F78240&ring=36BCF7&currStreakNum=36BCF7&sideNums=c9d1d9&sideLabels=c9d1d9&border=30363d" alt="GitHub Streak" />
+  <a href="https://github.com/BistNaveenSingh">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BistNaveenSingh&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9&border_color=30363d&hide_border=false&langs_count=8&cache_seconds=86400" alt="Top Languages" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Naveen-9-9">
-    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Naveen-9-9&bg_color=0D1117&color=36BCF7&line=F78240&point=FFFFFF&area_color=36BCF7&area=true&hide_border=false&custom_title=Contribution%20Graph" alt="Activity Graph" />
+  <a href="https://github.com/BistNaveenSingh">
+    <img width="60%" src="https://streak-stats.demolab.com/?user=BistNaveenSingh&theme=tokyonight&background=0D1117&fire=F78240&ring=36BCF7&currStreakNum=36BCF7&sideNums=c9d1d9&sideLabels=c9d1d9&border=30363d" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/BistNaveenSingh">
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=BistNaveenSingh&bg_color=0D1117&color=36BCF7&line=F78240&point=FFFFFF&area_color=36BCF7&area=true&hide_border=false&custom_title=Contribution%20Graph" alt="Activity Graph" />
   </a>
 </p>
 
@@ -213,7 +213,7 @@
 <!-- ==================== SPACE SHOOTER ==================== -->
 <!--
   ⚠️ SETUP REQUIRED FOR THE SPACE SHOOTER:
-  1. In your Naveen-9-9/Naveen-9-9 repo, create file: .github/workflows/shooter.yml
+  1. In your BistNaveenSingh/BistNaveenSingh repo, create file: .github/workflows/shooter.yml
   2. Paste the workflow from shooter-workflow.yml (saved in your workspace)
   3. Go to Actions tab → "Generate Space Shooter Game" → "Run workflow"
   4. Wait ~30 seconds — shooter.gif will be added to your repository!
@@ -223,7 +223,7 @@
 <h2 align="center">🚀 Watch Me Shoot My Contributions</h2>
 
 <p align="center">
-  <img alt="GitHub Space Shooter" src="https://raw.githubusercontent.com/Naveen-9-9/Naveen-9-9/main/shooter.gif" width="100%" />
+  <img alt="GitHub Space Shooter" src="https://raw.githubusercontent.com/BistNaveenSingh/BistNaveenSingh/main/shooter.gif" width="100%" />
 </p>
 
 <div align="center">
@@ -259,7 +259,7 @@
   <a href="https://linkedin.com/in/naveen-singh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/Naveen-9-9" target="_blank">
+  <a href="https://github.com/BistNaveenSingh" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>&nbsp;&nbsp;
   <a href="https://leetcode.com/bunnynaveen363" target="_blank">
@@ -276,7 +276,7 @@
   <h3>✨ Let's Build Something Amazing Together! ✨</h3>
   <p><em>Always open to discussing tech, collaborating on projects, or helping with mentorship.</em></p>
   
-  <img src="https://komarev.com/ghpvc/?username=Naveen-9-9&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=BistNaveenSingh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 ---
