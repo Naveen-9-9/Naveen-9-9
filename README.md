@@ -64,7 +64,7 @@
 ## 🛠️ **Tech Stack & Expertise**
 
 ### 💻 **Frontend Development**
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
@@ -75,7 +75,7 @@
 </div>
 
 ### ⚙️ **Backend & Database**
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -86,7 +86,7 @@
 </div>
 
 ### ☁️ **Cloud & DevOps**
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle OCI" />
@@ -97,7 +97,7 @@
 </div>
 
 ### 🧠 **Core Competencies**
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/System%20Design-FF6B6B?style=for-the-badge" alt="System Design" />
   <img src="https://img.shields.io/badge/Microservices-4ECDC4?style=for-the-badge" alt="Microservices" />
   <img src="https://img.shields.io/badge/RESTful%20APIs-50E3C2?style=for-the-badge" alt="RESTful APIs" />
@@ -105,7 +105,7 @@
   <img src="https://img.shields.io/badge/DSA-95E1D3?style=for-the-badge" alt="Data Structures & Algorithms" />
 </div>
 
-<div align="center">
+<div align="left">
    <img height="35" width="100%" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" alt="Divider" />
 </div>
 
@@ -171,7 +171,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="left">📊 GitHub Analytics</h2>
 
 <p align="center">
   <a href="https://github.com/Naveen-9-9">
@@ -198,11 +198,11 @@
    <img height="35" width="100%" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" alt="Divider" />
 </div>
 
-<h2 align="center">🧑‍💻 LeetCode Analytics</h2>
+<h2 align="left">🧑💻 LeetCode Analytics</h2>
 
 <p align="center">
   <a href="https://leetcode.com/u/bunny_naveen" target="_blank">
-    <img width="60%" src="https://leetcard.jacoblin.cool/bunny_naveen?theme=tokyonight&font=Syne&ext=activity" alt="LeetCode Stats" />
+    <img width="60%" src="https://leetcard.jacoblin.cool/bunny_naveen?theme=dark&font=Syne&ext=activity" alt="LeetCode Stats" />
   </a>
 </p>
 
@@ -210,14 +210,20 @@
    <img height="35" width="100%" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" alt="Divider" />
 </div>
 
-<h2 align="center">🐍 Watch the Snake Eat My Contributions</h2>
+<!-- ==================== SPACE SHOOTER ==================== -->
+<!--
+  ⚠️ SETUP REQUIRED FOR THE SPACE SHOOTER:
+  1. In your Naveen-9-9/Naveen-9-9 repo, create file: .github/workflows/shooter.yml
+  2. Paste the workflow from shooter-workflow.yml (saved in your workspace)
+  3. Go to Actions tab → "Generate Space Shooter Game" → "Run workflow"
+  4. Wait ~30 seconds — shooter.gif will be added to your repository!
+  5. It auto-regenerates every 12 hours.
+-->
+
+<h2 align="center">🚀 Watch Me Shoot My Contributions</h2>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naveen-9-9/Naveen-9-9/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Naveen-9-9/Naveen-9-9/output/github-snake.svg" />
-    <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/Naveen-9-9/Naveen-9-9/output/github-snake.svg" width="100%" />
-  </picture>
+  <img alt="GitHub Space Shooter" src="https://raw.githubusercontent.com/Naveen-9-9/Naveen-9-9/main/shooter.gif" width="100%" />
 </p>
 
 <div align="center">
