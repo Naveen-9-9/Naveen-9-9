@@ -175,10 +175,10 @@
 
 <p align="center">
   <a href="https://github.com/BistNaveenSingh">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BistNaveenSingh&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=36BCF7&icon_color=F78240&text_color=c9d1d9&border_color=30363d&hide_border=false&count_private=true&cache_seconds=86400&rank_icon=github" alt="GitHub Stats" />
+    <img width="49%" src="https://github-readme-stats.shion.dev/api?username=BistNaveenSingh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/BistNaveenSingh">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BistNaveenSingh&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9&border_color=30363d&hide_border=false&langs_count=8&cache_seconds=86400" alt="Top Languages" />
+    <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=BistNaveenSingh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
   </a>
 </p>
 
